@@ -1,5 +1,9 @@
 # Computer_Networks
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" width="500"/>
+</div>
+
 ---
 
 ## Task_1
@@ -9,3 +13,4 @@
 
 ## Task_2
 ### Поднять веб-сервер на виртуалке либо на полноценном сервере, перейти по локалхосту и увидеть вами созданный wordpress сайт (стартовую страницу)
+
