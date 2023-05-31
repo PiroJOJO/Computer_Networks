@@ -24,7 +24,12 @@
 ## Task_4  
 ### На любом фреймворке (если python то django, fastapi aiohttp) сделать html страницу с двумя элементами
 - input field в который юзер вводит ссылку например https://market.com/catalog?page=5  
-- кнопка submit button
+- кнопка submit button   
+<img src="https://github.com/PiroJOJO/Computer_Networks/blob/main/images/1.png" width="1000">
+
+---
+
+<img src="https://github.com/PiroJOJO/Computer_Networks/blob/main/images/2.png" width="1000">
 
 ---
 
