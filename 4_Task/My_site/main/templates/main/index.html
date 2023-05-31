@@ -1,0 +1,12 @@
+{% extends 'main/base.html' %}
+
+{% block title %}
+Мой глупый сайтик
+{% endblock %}
+
+{% block input %}
+    <form action="/team_name_url/" method="post">
+    <label for="team_name">Адрес сайта: </label>
+    <input id="team_name" type="text" name="name_field" value="">
+    <input type="submit" value="Парсинг">
+    {% endblock %}
